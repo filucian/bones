@@ -1,5 +1,5 @@
 {
-  "name": "__BONES_NEEDS_A_NAME__",
+  "name": "bones",
   "version": "0.0.1",
   "description": "A happy little skeleton.",
   "main": "index.js",
@@ -93,7 +93,7 @@
     "eslint-plugin-react": "^6.10.3",
     "eslint-plugin-standard": "^3.0.1",
     "eslint-watch": "^3.1.0",
-    "husky": "^0.13.3",
+    "husky": "^0.14.3",
     "mocha": "^3.1.2",
     "nodemon": "^1.11.0",
     "supertest": "^3.0.0",
